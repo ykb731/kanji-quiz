@@ -2,10 +2,9 @@
 
 ## Overview
 
-This is a simple Kanji quiz application built with Python.
-
-The app displays a Kanji character, and the user inputs the correct reading.  
-A hint can also be displayed to assist the user.
+This is a simple Kanji quiz application built with Python and Tkinter.
+The app displays a Kanji character, lets the user enter the correct reading, and can show a hint for support.
+Quiz data can be easily customized through a CSV file.
 
 ## Features
 
@@ -66,6 +65,7 @@ CSVファイルを読み込んでクイズを出題します。
 ### 技術スタック
 
 - Python
+- Tkinter
 - CSV
 
 ### 構成
