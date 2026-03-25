@@ -28,7 +28,7 @@ A hint can also be displayed to assist the user.
 
 ## Project Structure
 
-- main.py : application logic :contentReference[oaicite:1]{index=1}
+- main.py : application
 - kanji.csv : quiz data
 
 ## How to Run
