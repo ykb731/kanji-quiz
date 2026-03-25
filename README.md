@@ -33,7 +33,7 @@ A hint can also be displayed to assist the user.
 
 ## How to Run
 
-```bash
+
 python main.py
 
 ### Screenshot
@@ -79,4 +79,4 @@ CSVファイルを読み込んでクイズを出題します。
 ### スクリーンショット
 
 ![alt text](image.png)
-```
+
