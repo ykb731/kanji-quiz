@@ -33,12 +33,13 @@ A hint can also be displayed to assist the user.
 
 ## How to Run
 
-
+```bash
 python main.py
+```
 
 ### Screenshot
 
-![alt text](image.png)
+![App Screenshot](image.png)
 
 ---
 
@@ -74,9 +75,10 @@ CSVファイルを読み込んでクイズを出題します。
 
 ### 実行方法
 
-    python main.py
+```bash
+python main.py
+```
 
 ### スクリーンショット
 
-![alt text](image.png)
-
+![アプリ画面](image.png)
